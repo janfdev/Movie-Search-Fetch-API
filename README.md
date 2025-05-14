@@ -3,3 +3,5 @@
 
 
 ## Project Movie from OMDB Api
+
+- Javascript
